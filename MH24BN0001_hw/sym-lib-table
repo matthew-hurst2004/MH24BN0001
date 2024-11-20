@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "6130XX21821_61302021821")(type "KiCad")(uri "${KIPRJMOD}/eda_downloads/61302021821_header/6130XX21821_61302021821.kicad_sym")(options "")(descr ""))
+  (lib (name "Sym_lib")(type "KiCad")(uri "${KIPRJMOD}/Sym_lib.kicad_sym")(options "")(descr ""))
+)
