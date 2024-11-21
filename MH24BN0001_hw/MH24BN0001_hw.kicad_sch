@@ -3735,6 +3735,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 92.71) (xy 200.66 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "275ac19b-2ee0-4052-b930-84ad92624c4c")
+	)
+	(wire
+		(pts
 			(xy 240.03 34.29) (xy 240.03 36.83)
 		)
 		(stroke
@@ -4085,6 +4095,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 90.17) (xy 200.66 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8d93c3b-3dde-4f7b-abd2-4acfde7c2366")
+	)
+	(wire
+		(pts
 			(xy 236.22 31.75) (xy 240.03 31.75)
 		)
 		(stroke
@@ -4163,6 +4183,17 @@
 		)
 		(uuid "f9701cb0-3358-429e-9d4a-91d41b453321")
 	)
+	(label "SWDIO"
+		(at 190.5 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "31ba74c1-77e6-49ff-8354-b5b3be76839d")
+	)
 	(label "NRST"
 		(at 22.86 46.99 0)
 		(fields_autoplaced yes)
@@ -4184,6 +4215,17 @@
 			(justify left bottom)
 		)
 		(uuid "7a76acb6-4910-42b2-8bd7-784f2e3d639c")
+	)
+	(label "SWCLK"
+		(at 190.5 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7b2c20e6-ea11-4bc8-b000-65d909b949f6")
 	)
 	(label "SWCLK"
 		(at 26.67 39.37 0)
