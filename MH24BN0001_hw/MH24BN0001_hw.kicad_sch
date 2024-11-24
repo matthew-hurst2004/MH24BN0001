@@ -6500,7 +6500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/on-shore-technology-inc/302-S201/2794235"
 			(at 115.57 72.39 0)
 			(effects
 				(font
